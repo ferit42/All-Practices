@@ -1,0 +1,72 @@
+.container {
+    width: 1250px;
+    height: 289px;    
+    margin-left: auto;
+    margin-right: auto;    
+}
+
+.logo {
+    height: 113px;    
+    text-align: center;
+}
+
+.content {
+    height: 144px;
+    background-color: white;
+}
+
+.search-bar {
+    height: 62px;
+    text-align: center;
+    margin-top: 0px;
+    background-color: rgb(238, 238, 238);
+}
+
+.p {
+    margin: 0;
+    text-align: center;
+}
+
+/* .about-box {
+    height: 76px;
+
+} */
+
+.card {
+    height: 66px;
+    float: left;
+    width: 440px;
+    text-align: center;
+    background-color: rgb(112, 204, 194);
+    margin-top: 3px;
+    padding-top: 10px;
+
+}
+
+.card-2 {
+    height: 71px;
+    float: left;
+    width: 270px;
+    text-align: center;
+    background-color: rgb(112, 204, 194);
+    margin-top: 3px;
+    margin-left: 2px;
+    padding-top: 5px;    
+}
+
+.card-3 {
+    height: 76px;
+    text-align: center;
+    background-color: rgb(112, 204, 194);
+    float: left;
+    width: 536px;
+    margin-top: 3px;
+    margin-left: 2px;    
+}
+
+.fs-15 {
+    font-size: 15px;
+}
+.fs-13 {
+    font-size: 13px;
+}
